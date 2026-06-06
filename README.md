@@ -1,6 +1,16 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=Nexura%20Inverse%20Technology&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=We%20build%20systems%20that%20move%20things&descAlignY=62&descSize=16)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d0d2b,100:1a1a4e&height=220&section=header&text=Nexura%20Inverse%20Technology&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Engineering%20the%20infrastructure%20of%20tomorrow&descAlignY=58&descSize=15&animation=fadeIn)
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=We+don't+just+build+software.;We+build+what+moves+the+world.;Reliable.+Scalable.+Real." alt="Typing SVG" />
+
+<br/><br/>
+
+> *"Most technology is built for ideal conditions. We build for the real world."*
+
+<br/>
 
 </div>
 
@@ -8,46 +18,76 @@
 
 <div align="center">
 
-### We are NIT.
-
-We build delivery infrastructure — the kind that works in the real world, not just in demos.
-
-Our platforms are designed for speed, built for scale, and deployed where it matters most: South Asia.
+## 〔 Who We Are 〕
 
 </div>
+
+<br/>
+
+**Nexura Inverse Technology (NIT)** is a technology company headquartered in Tamil Nadu, India. We design and engineer digital infrastructure that solves hard, real-world problems — systems that perform under pressure, scale without breaking, and deliver results where it matters most.
+
+We are not a services company. We are builders.
+
+<br/>
 
 ---
 
 <div align="center">
 
-**What drives us**
-
-`Reliability over features` &nbsp;·&nbsp; `Speed without compromise` &nbsp;·&nbsp; `Built for real roads`
+## 〔 Our Principles 〕
 
 </div>
+
+<br/>
+
+<div align="center">
+
+| | |
+|:---:|:---|
+| ⚡ | **Speed without shortcuts** — fast systems built the right way |
+| 🏗️ | **Infrastructure first** — foundations before features |
+| 🌏 | **Built for South Asia** — designed for real roads, real networks, real users |
+| 🔒 | **Reliability over hype** — boring is good when lives depend on it |
+
+</div>
+
+<br/>
 
 ---
 
 <div align="center">
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+## 〔 What We Work With 〕
+
+<br/>
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 </div>
+
+<br/>
 
 ---
 
 <div align="center">
 
-📍 Tamil Nadu, India &nbsp;·&nbsp; 🌐 [nexurainversetechnology.com](https://nexurainversetechnology.com) &nbsp;·&nbsp; ✉️ nexurainversetechnology@gmail.com
+## 〔 Find Us 〕
 
-</div>
+<br/>
 
-<div align="center">
+[![Website](https://img.shields.io/badge/Website-nexurainversetechnology.com-0d0d2b?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nexurainversetechnology.com)
+[![Email](https://img.shields.io/badge/Email-nexurainversetechnology@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nexurainversetechnology@gmail.com)
+[![Location](https://img.shields.io/badge/Based_in-Tamil%20Nadu%2C%20India-138808?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Tamil+Nadu,+India)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=100&section=footer)
+<br/><br/>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a4e,100:000000&height=120&section=footer)
 
 </div>
